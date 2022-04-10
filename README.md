@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **gamalathrashini@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rashini-gamalath-3b27b41b2](www.linkedin.com/in/rashini-gamalath-3b27b41b2)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
