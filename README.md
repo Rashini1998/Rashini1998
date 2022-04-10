@@ -20,7 +20,7 @@
 - 💬 Ask me about **React Native**
 
 - 📫 How to reach me **gamalathrashini@gmail.com**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
