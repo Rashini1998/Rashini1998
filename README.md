@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rashini.
 - 👀 I love writing codes and handling exceptions.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning React and React Native.
 - 💞️ I’m looking to collaborate and become more participatory in the community.
 
 
