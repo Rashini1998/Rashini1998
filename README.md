@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashini1998" alt="rashini1998" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rgamalath" target="blank"><img src="https://img.shields.io/twitter/follow/rgamalath?logo=twitter&style=for-the-badge" alt="rgamalath" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/10d75f82d190241737b22f9a224a9e8d215bb274e5151509048175ee26e1b6a7/68747470733a2f2f75706c696674636f72726563742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f35353533372d6769726c2d6f6e2d636f6d70757465722d776974682d696465612e676966">
+
 
 
 - 🔭 I’m currently working on **DYTracker**
