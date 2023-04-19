@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashini Gamalath</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">I'm a Trainee Software Engineer at WSO2, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashini1998&label=Profile%20views&color=0e75b6&style=flat" alt="rashini1998" /> </p>
 
@@ -9,15 +10,15 @@
 
 
 
-- 🔭 I’m currently working on **DYTracker**
+- 🔭 I’m currently working on **Consent Management Portal in UK Toolkit**
 
-- 🌱 I’m currently learning **React, React Native, NodeJS**
+- 🌱 I’m currently learning **React, Java, WSO2 Products(WSO2 Identity Server, WSO2 API Manager), Git, MySQL, TestNG, Groovy, Maven **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@gamalathrashini](https://medium.com/@gamalathrashini)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **gamalathrashini@gmail.com**
 
