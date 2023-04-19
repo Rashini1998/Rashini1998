@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Consent Management Portal in UK Toolkit**
 
-- 🌱 I’m currently learning **React, Java, WSO2 Products(WSO2 Identity Server, WSO2 API Manager), Git, MySQL, TestNG, Groovy, Maven **
+- 🌱 I’m currently learning **React, Java, WSO2 Products(WSO2 Identity Server, WSO2 API Manager), Git, MySQL, TestNG, Groovy, Maven**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
