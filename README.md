@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashini Gamalath</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
-<h3 align="center">I'm a Trainee Software Engineer at WSO2, Sri Lanka</h3>
+<h3 align="center">Former Trainee Software Engineer at WSO2, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashini1998&label=Profile%20views&color=0e75b6&style=flat" alt="rashini1998" /> </p>
 
