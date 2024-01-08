@@ -1,3 +1,4 @@
+[![An image of @rash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rash)](https://holopin.io/@rash)
 <h1 align="center">Hi 👋, I'm Rashini Gamalath</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
 <h3 align="center">Former Trainee Software Engineer at WSO2, Sri Lanka</h3>
