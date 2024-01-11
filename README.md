@@ -11,15 +11,15 @@
 
 
 
-- 🔭 I’m currently working on **Consent Management Portal in UK Toolkit**
+- 🔭 I’m currently working on **Storytelling Application for the Deaf Children Using Sri Lankan Sign Language**
 
-- 🌱 I’m currently learning **React, Java, WSO2 Products(WSO2 Identity Server, WSO2 API Manager), Git, MySQL, TestNG, Groovy, Maven**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@gamalathrashini](https://medium.com/@gamalathrashini)
 
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **React, Java, Python**
 
 - 📫 How to reach me **gamalathrashini@gmail.com**
 
