@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gamalathrashini](https://medium.com/@gamalathrashini)
 
-- 💬 Ask me about **React, Java, Python**
+- 💬 Ask me about **React, Java, Python, ASP.NET**
 
 - 📫 How to reach me **gamalathrashini@gmail.com**
 
