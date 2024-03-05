@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on [Storytelling Application for the Deaf Children Using Sri Lankan Sign Language](https://github.com/Storytelling-for-Deaf)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & ASP.NET**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@gamalathrashini](https://medium.com/@gamalathrashini)
 
-- 💬 Ask me about **React, Java, Python, ASP.NET**
+- 💬 Ask me about **ReactJS, React Native, Java, Python, ASP.NET, MySQL, MariaDB, NodeJS**
 
 - 📫 How to reach me **gamalathrashini@gmail.com**
 
