@@ -8,7 +8,7 @@
 
 - 👩🏻‍💻 I’m currently working on [Storytelling Application for Deaf Children using Sri Lankan Sign Language](https://github.com/Storytelling-for-Deaf)
 
-- 💻 I’m currently learning **PHP & ASP.NET**
+- 💻 I’m currently learning **PHP**
 
 - 🕵🏻‍♀️ I’m looking to collaborate on **OpenSource Projects**
 
