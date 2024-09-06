@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashini1998&label=Profile%20views&color=0e75b6&style=flat" alt="rashini1998" /> </p>
 
-- 👩🏻‍💻 I’m currently working on [Storytelling Application for Deaf Children using Sri Lankan Sign Language](https://github.com/Storytelling-for-Deaf)
+- 👩🏻‍💻 I’m currently working on **FAMS System** 
 
-- 💻 I’m currently learning **PHP**
+- 💻 I’m currently learning **PHP** & **CodeIgniter**
 
 - 🕵🏻‍♀️ I’m looking to collaborate on **OpenSource Projects**
 
