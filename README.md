@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Rashini1998/Rashini1998/blob/main/Rashini-Gamalath.gif" alt="animated-banner">
+</p>
+
 [![An image of @rash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rash)](https://holopin.io/@rash)
 <h1 align="center">Hey 🙋🏻‍♀️, Rashini Gamalath here...</h1>
 <h3 align="center">Software Engineer at Prostyle Technology, Sri Lanka</h3>
