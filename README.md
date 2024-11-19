@@ -1,24 +1,20 @@
-<p align="center">
-  <img src="https://github.com/Rashini1998/Rashini1998/blob/main/Rashini-Gamalath-gif.gif" alt="animated-banner">
-</p>
-
 [![An image of @rash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rash)](https://holopin.io/@rash)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashini1998&label=Profile%20views&color=0e75b6&style=flat" alt="rashini1998" /> </p>
 
-- 👩🏻‍💻 I’m currently working on **FAMS System** 
+- 👩🏻‍💻 I’m currently working on **FAMS System**. 
 
-- 💻 I’m currently learning **PHP** & **CodeIgniter**
+- 💻 I’m currently learning **PHP** & **CodeIgniter**.
 
-- 🕵🏻‍♀️ I’m looking to collaborate on **OpenSource Projects**
+- 🕵🏻‍♀️ I’m looking to collaborate on **OpenSource Projects**.
 
-- 📌 All of my projects are available at [https://portfolio-rashini.netlify.app/](https://portfolio-rashini.netlify.app/)
+- 📌 All of my projects are available at [My Portfolio.](https://rashini-gamalath.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@gamalathrashini](https://medium.com/@gamalathrashini)
+- 📝 I regularly write articles on [Medium.](https://medium.com/@gamalathrashini)
 
-- 💬 Ask me about **ReactJS, React Native, Java, Python, ASP.NET, MySQL, MariaDB, NodeJS**
+- 💬 Ask me about **ReactJS, React Native, Java, Python, PHP,CodeIgniter, MySQL, MariaDB, NodeJS**.
 
-- 📩 How to reach me **gamalathrashini@gmail.com**
+- 📩 How to reach me **gamalathrashini@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
