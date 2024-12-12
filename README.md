@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I’m currently working on **FAMS System**. 
 
-- 💻 I’m currently learning **PHP** & **CodeIgniter**.
+- 💻 I’m currently learning **PHP, Vue.js** & **CodeIgniter**.
 
 - 🕵🏻‍♀️ I’m looking to collaborate on **OpenSource Projects**.
 
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Medium.](https://medium.com/@gamalathrashini)
 
-- 💬 Ask me about **ReactJS, React Native, Java, Python, PHP,CodeIgniter, MySQL, MariaDB, NodeJS**.
+- 💬 Ask me about **ReactJS, React Native, Java, Python, PHP,CodeIgniter, MySQL, MariaDB, NodeJS, Vue.js**.
 
 - 📩 How to reach me **gamalathrashini@gmail.com**.
 
