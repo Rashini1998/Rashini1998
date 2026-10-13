@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I’m currently working on **NOx Assembly Process Inventory Management Web System**. 
 
-- 💻 I’m currently learning **Flask, Vue.js, SAP** & **CodeIgniter**.
+- 💻 I’m currently learning **Flask, Vue.js, SAP, CodeIgniter** & **RAG**.
 
 - 🕵🏻‍♀️ I’m looking to collaborate on **OpenSource Projects**.
 
